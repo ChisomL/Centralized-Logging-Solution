@@ -1,7 +1,7 @@
 # Centralized-Logging-Solution
 
-<h2>Description (edit)</h2>
-I used Fedora to setup a Windows 10 and Kali Linux vm using Virtual Machine Manager (VMM). I used the Kali vm to setup Nessus to perform a vulnerability scan on the Windows vm, and remediated some of the vulnerabilities. 
+<h2>Description</h2>
+Splunk is data processing tool with some amazing Security Incident and Event Managment (SIEM) capabilities. In this lab, I will set up splunk on a kali vm and accessing it through a fedora host. I will upload a csv file for splunk to index then I will perform some analysis on the data and create dashboards to visually represent the data. 
 <br />
 
 
